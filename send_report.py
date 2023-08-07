@@ -8,7 +8,7 @@ f = open("orders_list.txt", 'r',  encoding="utf-8")
 
 sender_email = "davidwuacc2@gmail.com"
 sender_password = "qqyoseewqoazxexx"
-recipient_email = "papercut015@gmail.com"
+recipient_email = "davidsiweiwu@gmail.com"
 subject = "Daily Delivery Report"
 
 body = f.read()
