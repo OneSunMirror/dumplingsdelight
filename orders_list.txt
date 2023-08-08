@@ -1,0 +1,192 @@
+
+
+
+Google Map Link Best Route by Time taken:
+www.google.com/maps/dir/?api=1&waypoints=31%2CAmbient%2CWay%2CPoint%2CCook%2C3030%7C2%2CThompson%2CRoad%2CNorth%2CGeelong%2C3215%7C176%2CFurlong%2CRoad%2CSaint%2CAlbans%2C3021%7C80%2CTaylors%2CRoad%2CKeilor%2CDowns%2C3038%7C1099-1169%2CPascoe%2CVale%2CRoad%2CBroadmeadows%2C3047%7C25%2CCentreway%2CKeilor%2CEast%2C3033%7C643%2CRathdowne%2CStreet%2CCarlton%2CNorth%2C3054%7C8%2CArnold%2CStreet%2CBox%2CHill%2C3128%7C&destination=900%2CDandenong%2CRoad%2CCaulfield%2CEast%2C3145
+www.google.com/maps/dir/?api=1&waypoints=8%2CArnold%2CStreet%2CBox%2CHill%2C3128%7C229%2CExhibition%2CSt%2CMelbourne%2C3000%7C281%2CBourke%2CStreet%2CMelbourne%2C3000%7C45%2CMcArthurs%2CRoad%2CAltona%2CNorth%2C3025%7C&destination=Sanctuary%2CLakes%2CShopping%2CCentre%2CPoint%2CCook%2C3030
+
+
+
+Order no: 10002
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 3
+Vegetarian Gyoza (QTY: 50) 素锅贴 Order: 2
+PRAWN & CHIVE DUMPLINGS (QTY: 50) 水晶韭菜虾饺 Order: 1
+
+Address: 31 Ambient Way, Point Cook, 3030
+Phone: 0420311234
+-------------------------
+Order no: 10008
+
+CHICKEN & SHRIMP DUMPLINGS (QTY: 100) 鸡虾饺 Order: 1
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 2
+Pork Buns (QTY: 50) 生煎包 Order: 2
+Mini Pork Wontons (QTY: 100) 鲜肉小馄饨 Order: 2
+
+Address: 2 Thompson Road, North Geelong, 3215
+Phone: 0415886811
+-------------------------
+Order no: 10006
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 7
+
+Address: 2 Thompson Road, North Geelong, 3215
+Phone: 0415886811
+-------------------------
+Order no: 10015
+
+Pork Buns (QTY: 50) 生煎包 Order: 1
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺 Order: 1
+Chicken and Prawn Gyoza (QTY: 50) 鸡虾锅贴 Order: 1
+Mini Pork Wontons (QTY: 100) 鲜肉小馄饨 Order: 1
+PRAWN DUMPLINGS (QTY: 50) 水晶虾饺 Order: 1
+CHICKEN & SHRIMP DUMPLINGS (QTY: 100) 鸡虾饺 Order: 5
+
+Address: 176 Furlong Road, Saint Albans, 3021
+Phone: 0415886811
+-------------------------
+Order no: 10011
+
+Pork Buns (QTY: 50) 生煎包 Order: 1
+Chicken and Prawn Gyoza (QTY: 50) 鸡虾锅贴 Order: 1
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺 Order: 1
+Mini Pork Wontons (QTY: 100) 鲜肉小馄饨 Order: 1
+PRAWN DUMPLINGS (QTY: 50) 水晶虾饺 Order: 1
+Pork & Vegetable Wontons (QTY: 50) 菜肉大馄饨 Order: 1
+PRAWN & CHIVE DUMPLINGS (QTY: 50) 水晶韭菜虾饺 Order: 1
+SCALLOP DUMPLINGS (QTY: 50) 带子饺 Order: 1
+
+Address: 80 Taylors Road, Keilor Downs, 3038
+Phone: 0415886811
+-------------------------
+Order no: 10007
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 8
+
+Address: 1099-1169 Pascoe Vale Road, Broadmeadows, 3047
+Phone: 415886811
+-------------------------
+Order no: 10010
+
+Pork Buns (QTY: 50) 生煎包 Order: 1
+FOOTY DUMPLINGS (QTY: 50) 咸水角 Order: 1
+VEGETARIAN DUMPLINGS (QTY: 50) 水晶素饺 Order: 1
+CHICKEN DIM SIMS (QTY: 50) 鸡肉烧卖 Order: 1
+PREMIUM PRAWN DIM SIMS (QTY: 50) 特色烧卖 Order: 1
+SEAFOOD DUMPLINGS (QTY: 50) 海鲜较 Order: 1
+SHARK FIN DUMPLINGS (QTY: 50) 鱼翅饺 Order: 1
+
+Address: 25 Centreway, Keilor East, 3033
+Phone: 0415886811
+-------------------------
+Order no: 10013
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 1
+Pork Gyoza (QTY: 50) 猪肉锅贴 Order: 1
+Pork & Vegetable Wontons (QTY: 50) 菜肉大馄饨 Order: 1
+PRAWN DUMPLINGS (QTY: 50) 水晶虾饺 Order: 1
+Mini Pork Wontons (QTY: 100) 鲜肉小馄饨 Order: 1
+CHICKEN & SHRIMP DUMPLINGS (QTY: 100) 鸡虾饺 Order: 1
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺 Order: 1
+BEEF & ONION DUMPLINGS (QTY: 100) 圆葱牛饺 Order: 1
+Pork Buns (QTY: 50) 生煎包 Order: 1
+
+Address: 643 Rathdowne Street, Carlton North, 3054
+Phone: 0415886811
+-------------------------
+Order no: 10012
+
+Pork Buns (QTY: 50) 生煎包 Order: 1
+Chicken and Prawn Gyoza (QTY: 50) 鸡虾锅贴 Order: 1
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺 Order: 1
+Vegetarian Gyoza (QTY: 50) 素锅贴 Order: 1
+Pork Gyoza (QTY: 50) 猪肉锅贴 Order: 1
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 1
+BEEF & ONION DUMPLINGS (QTY: 100) 圆葱牛饺 Order: 1
+Pork& ChiveDumplings (QTY: 100) 猪肉韭菜饺 Order: 1
+
+Address: 8 Arnold Street, Box Hill, 3128
+Phone: 415886811
+-------------------------
+Order no: 10014
+
+PRAWN & CHIVE DUMPLINGS (QTY: 50) 水晶韭菜虾饺 Order: 1
+SCALLOP DUMPLINGS (QTY: 50) 带子饺 Order: 1
+SHARK FIN DUMPLINGS (QTY: 50) 鱼翅饺 Order: 1
+SEAFOOD DUMPLINGS (QTY: 50) 海鲜较 Order: 1
+PREMIUM PRAWN DIM SIMS (QTY: 50) 特色烧卖 Order: 1
+CHICKEN DIM SIMS (QTY: 50) 鸡肉烧卖 Order: 1
+PRAWN DUMPLINGS (QTY: 50) 水晶虾饺 Order: 1
+Pork & Vegetable Wontons (QTY: 50) 菜肉大馄饨 Order: 1
+
+Address: 900 Dandenong Road, Caulfield East, 3145
+Phone: 415886811
+-------------------------
+Order no: 10004
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 12
+
+Address: 229 Exhibition St, Melbourne, 3000
+Phone: +61415886811
+-------------------------
+Order no: 10003
+
+Pork Buns (QTY: 50) 生煎包 Order: 2
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 2
+Pork& ChiveDumplings (QTY: 100) 猪肉韭菜饺 Order: 1
+Pork Gyoza (QTY: 50) 猪肉锅贴 Order: 1
+
+Address: 229 Exhibition St, Melbourne, 3000
+Phone: +61415886811
+-------------------------
+Order no: 10005
+
+Pork Buns (QTY: 50) 生煎包 Order: 7
+
+Address: 281 Bourke Street, Melbourne, 3000
+Phone: 0415886811
+-------------------------
+Order no: 10009
+
+CHICKEN DIM SIMS (QTY: 50) 鸡肉烧卖 Order: 1
+PRAWN & CHIVE DUMPLINGS (QTY: 50) 水晶韭菜虾饺 Order: 1
+SEAFOOD DUMPLINGS (QTY: 50) 海鲜较 Order: 2
+Pork Gyoza (QTY: 50) 猪肉锅贴 Order: 1
+Vegetarian Gyoza (QTY: 50) 素锅贴 Order: 1
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺 Order: 1
+Chicken and Prawn Gyoza (QTY: 50) 鸡虾锅贴 Order: 1
+Pork& ChiveDumplings (QTY: 100) 猪肉韭菜饺 Order: 1
+BEEF & ONION DUMPLINGS (QTY: 100) 圆葱牛饺 Order: 1
+
+Address: 45 McArthurs Road, Altona North, 3025
+Phone: 0415886811
+-------------------------
+Order no: 10001
+
+Xiaolongbao  (QTY: 50) 手工小笼包 Order: 6
+Pork Buns (QTY: 50) 生煎包 Order: 8
+
+Address: Sanctuary Lakes Shopping Centre, Point Cook, 3030
+Phone: 0415886811
+-------------------------
+Total Orders: 
+Xiaolongbao  (QTY: 50) 手工小笼包   Total Order: 42
+Vegetarian Gyoza (QTY: 50) 素锅贴   Total Order: 4
+PRAWN & CHIVE DUMPLINGS (QTY: 50) 水晶韭菜虾饺   Total Order: 4
+CHICKEN & SHRIMP DUMPLINGS (QTY: 100) 鸡虾饺   Total Order: 7
+Pork Buns (QTY: 50) 生煎包   Total Order: 24
+Mini Pork Wontons (QTY: 100) 鲜肉小馄饨   Total Order: 5
+Pork & Cabbage Dumplings (QTY: 100) 猪肉白菜饺   Total Order: 5
+Chicken and Prawn Gyoza (QTY: 50) 鸡虾锅贴   Total Order: 4
+PRAWN DUMPLINGS (QTY: 50) 水晶虾饺   Total Order: 4
+Pork & Vegetable Wontons (QTY: 50) 菜肉大馄饨   Total Order: 3
+SCALLOP DUMPLINGS (QTY: 50) 带子饺   Total Order: 2
+FOOTY DUMPLINGS (QTY: 50) 咸水角   Total Order: 1
+VEGETARIAN DUMPLINGS (QTY: 50) 水晶素饺   Total Order: 1
+CHICKEN DIM SIMS (QTY: 50) 鸡肉烧卖   Total Order: 3
+PREMIUM PRAWN DIM SIMS (QTY: 50) 特色烧卖   Total Order: 2
+SEAFOOD DUMPLINGS (QTY: 50) 海鲜较   Total Order: 4
+SHARK FIN DUMPLINGS (QTY: 50) 鱼翅饺   Total Order: 2
+Pork Gyoza (QTY: 50) 猪肉锅贴   Total Order: 4
+BEEF & ONION DUMPLINGS (QTY: 100) 圆葱牛饺   Total Order: 3
+Pork& ChiveDumplings (QTY: 100) 猪肉韭菜饺   Total Order: 3

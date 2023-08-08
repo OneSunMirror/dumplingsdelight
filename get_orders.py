@@ -28,17 +28,22 @@ def retreive_orders(secrets):
     #for c in response.iter_lines():
     #    f.write(c)
     return response
+
 def gen_routes(locations, optimum_route):
-    source_link = "www.google.com/maps/dir"
+    source_link = "www.google.com/maps/dir/?api=1&waypoints="
     last_start = ""
     routes = []
     l = len(locations)
-    for x in range(0, l, 10):
+    for x in range(1, l, 10):
         link = source_link + last_start
-        for y in range(x, min(x+10, l)):
-            last_start = "/" + locations[optimum_route[y]]
-            link = link  + "/" + locations[optimum_route[y]]
-        link = link.replace(" ","+")
+        last_y = x
+        for y in range(x, min(x+10, l)-1):
+            last_start = locations[optimum_route[y]] + "%7C"
+            if locations[optimum_route[y]] !=  locations[optimum_route[y-1]]:
+                link = link  + locations[optimum_route[y]] + "%7C"
+            last_y = y+1
+        link = link + "&destination=" + locations[optimum_route[last_y]]
+        link = link.replace(" ","%2C")
         link = link.replace(",","")
         routes.append(link)
     return routes
@@ -52,6 +57,42 @@ secrets = {"0e38bd38-e49b-487d-bbf1-f2a6a1e10549":"IST.eyJraWQiOiJQb3pIX2FDMiIsI
 orders = json.loads(retreive_orders(secrets).content)
 tot_orders = {}
 for order in orders['orders']:
+    add_dict = order['shippingInfo']['shipmentDetails']['address']
+    add = add_dict['addressLine1']
+    if 'addressLine2' in add_dict:
+        add = add + " " + add_dict['addressLine2']
+    add = add + ", " + add_dict['city'] + ", " + add_dict['zipCode']
+    locations.append(add)
+    #map_route = map_route + "/" + add
+
+
+optimum_route = find_route(locations, 'duration')
+optimum_route.append(0)
+map_route = gen_routes(locations, optimum_route) 
+#print(map_route)
+
+f.write("\n\n\n")
+f.write("Google Map Link Best Route by Time taken:\n")
+for m in map_route:
+    f.write(m)
+    f.write("\n")
+
+#optimum_route = find_route(locations, 'distance')
+#locations.append(origin)
+#optimum_route.append(0)
+#map_route = gen_routes(locations, optimum_route)
+
+#f.write("\n\n\n")
+#f.write("Google Map Link Best Route by Distance travelled:\n")
+#for m in map_route:
+#    f.write(m)
+#    f.write("\n")
+
+c = 1
+f.write("\n\n\n")
+for i in orders['orders']:
+    order = orders['orders'][optimum_route[c]-1]
+    c = c +1
     f.write("Order no: " +  str(order['number']))
     f.write("\n\n")
     for item in order['lineItems']:
@@ -62,44 +103,21 @@ for order in orders['orders']:
             tot_orders[item['name']] =  item['quantity']
         f.write("\n")
     f.write("\n")
-    add_dict = order['shippingInfo']['shipmentDetails']['address']
-    add = add_dict['addressLine1']
-    if 'addressLine2' in add_dict:
-        add = add + " " + add_dict['addressLine2']
-    add = add + ", " + add_dict['city'] + ", " + add_dict['zipCode']
-    locations.append(add)
-    #map_route = map_route + "/" + add
-    f.write("Address: " + add)
+    f.write("Address: " + locations[optimum_route[c-1]])
     f.write("\n")
-    f.write("Phone: " + add_dict['phone'] + "\n")    
+    f.write("Phone: " + order['shippingInfo']['shipmentDetails']['address']['phone'] + "\n")    
     f.write("-------------------------\n")
+
 f.write("Total Orders: \n")
 for tot in tot_orders:
     f.write(tot + "   Total Order: " + str(tot_orders[tot]) + "\n")    
 
-optimum_route = find_route(locations, 'duration')
-locations.append(origin)
-optimum_route.append(0)
-map_route = gen_routes(locations, optimum_route) 
-#print(map_route)
 
 
-f.write("\n\n\n")
-f.write("Google Map Link Best Route by Time taken:\n")
-for m in map_route:
-    f.write(m)
-    f.write("\n")
 
-optimum_route = find_route(locations, 'distance')
-locations.append(origin)
-optimum_route.append(0)
-map_route = gen_routes(locations, optimum_route)
 
-f.write("\n\n\n")
-f.write("Google Map Link Best Route by Distance travelled:\n")
-for m in map_route:
-    f.write(m)
-    f.write("\n")
+
+
 
 
 f.close()
