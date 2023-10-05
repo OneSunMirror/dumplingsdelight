@@ -4,7 +4,7 @@ import numpy as np
 from python_tsp.exact import solve_tsp_dynamic_programming
 from googlemaps import distance_matrix
 url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins="
-map_api_key = "AIzaSyDILOATa9jdhX1tQqsYiS-ALgKSzZ6pesM"
+map_api_key = ""
 
 
 def get_matrix(src, dest, x, y, master_mat, type):
